@@ -1,0 +1,27 @@
+{
+  "name": "pr.-profesionalizante-i---entrega-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolas-85/Gestion-Intitutos-SEAC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicolas-85/Gestion-Intitutos-SEAC/issues"
+  },
+  "homepage": "https://github.com/Nicolas-85/Gestion-Intitutos-SEAC#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
