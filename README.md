@@ -33,7 +33,7 @@ El sistema permite registrar alumnos, docentes y cursos, así como realizar oper
 ---
 
 ## 🧱 Estructura del proyecto
-
+```
 Proyecto-SEAC/
 │
 ├── Db/
@@ -51,7 +51,7 @@ Proyecto-SEAC/
 ├── package.json
 ├── package-lock.json
 └── server.js
-
+```
 ---
 
 ## 🚀 Instalación y ejecución
